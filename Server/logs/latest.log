@@ -1,0 +1,47 @@
+[13апр.2024 16:38:29.171] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.5, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[13апр.2024 16:38:29.176] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 18.0.2.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[13апр.2024 16:38:30.623] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[13апр.2024 16:38:30.651] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Br51kx/Desktop/SteamPunk/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[13апр.2024 16:38:31.461] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Br51kx\Desktop\SteamPunk\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.5\fmlcore-1.19.2-43.3.5.jar is missing mods.toml file
+[13апр.2024 16:38:31.463] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Br51kx\Desktop\SteamPunk\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.5\javafmllanguage-1.19.2-43.3.5.jar is missing mods.toml file
+[13апр.2024 16:38:31.471] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Br51kx\Desktop\SteamPunk\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.5\lowcodelanguage-1.19.2-43.3.5.jar is missing mods.toml file
+[13апр.2024 16:38:31.484] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Br51kx\Desktop\SteamPunk\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.5\mclanguage-1.19.2-43.3.5.jar is missing mods.toml file
+[13апр.2024 16:38:31.676] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13апр.2024 16:38:31.678] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: terrablender. Using Mod File: C:\Users\Br51kx\Desktop\SteamPunk\mods\TerraBlender-forge-1.19.2-2.0.1.166.jar
+[13апр.2024 16:38:31.679] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\Br51kx\Desktop\SteamPunk\mods\resourcefullib-forge-1.19.2-1.1.24.jar
+[13апр.2024 16:38:31.679] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: botarium. Using Mod File: C:\Users\Br51kx\Desktop\SteamPunk\mods\botarium-forge-1.19.2-1.9.2.jar
+[13апр.2024 16:38:31.679] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: C:\Users\Br51kx\Desktop\SteamPunk\mods\curios-forge-1.19.2-5.1.6.1.jar
+[13апр.2024 16:38:31.680] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
+[13апр.2024 16:38:31.754] [main/INFO] [Configured Defaults/]: Applying default files...
+[13апр.2024 16:38:35.145] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13апр.2024 16:38:35.236] [main/ERROR] [mixin/]: Mixin config luna.mixins.json does not specify "minVersion" property
+[13апр.2024 16:38:35.365] [main/ERROR] [mixin/]: Mixin config spruceui.mixins.json does not specify "minVersion" property
+[13апр.2024 16:38:35.421] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[13апр.2024 16:38:35.422] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.aizistral.enigmaticlegacy.MixinConnector]
+[13апр.2024 16:38:35.423] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13апр.2024 16:38:35.504] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.15.0+mc1.19.2: 83 options available, 1 override(s) found
+[13апр.2024 16:38:35.505] [main/WARN] [ModernFix/]: Option 'mixin.perf.resourcepacks' overriden (by user configuration) to 'false'
+[13апр.2024 16:38:35.506] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[13апр.2024 16:38:35.518] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[13апр.2024 16:38:35.546] [main/WARN] [mixin/]: Reference map 'lmft-forge-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.563] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.582] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.586] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.656] [main/WARN] [mixin/]: Reference map 'thirst.refmap.json' for villagercomfort.mixin.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.658] [main/WARN] [mixin/]: Reference map 'idas.refmap.json' for idas.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.666] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.683] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Mod
+[13апр.2024 16:38:35.686] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Loader
+[13апр.2024 16:38:35.763] [main/WARN] [mixin/]: Reference map 'mixins.wares.refmap.json' for mixins.wares.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.780] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/llamalad7/mixinextras/service/MixinExtrasVersion
+[13апр.2024 16:38:35.826] [main/WARN] [mixin/]: Reference map 'createframed.refmap.json' for createframed.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.852] [main/WARN] [mixin/]: Reference map 'createair.mixins.refmap.json' for createair.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.866] [main/WARN] [mixin/]: Reference map 'create_crystal_clear.refmap.json' for create_crystal_clear.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.886] [main/WARN] [mixin/]: Reference map 'QualitysDelight.refmap.json' for qualitysdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.917] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:35.927] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting malte0811/ferritecore/mixin/config/FerriteMixinConfig$LithiumSupportState
+[13апр.2024 16:38:35.941] [main/WARN] [mixin/]: Reference map 'PacketFixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13апр.2024 16:38:36.225] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[13апр.2024 16:38:36.231] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[13апр.2024 16:38:36.398] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[13апр.2024 16:38:36.398] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found mixins.hammerlib.json:bs.kubejs.RecipeEventJSMixin

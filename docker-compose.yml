@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  server_minecraft_steampunk:
+    restart: unless-stopped
+    user: root
+    ports:
+      - 25565:25565
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./world/:/app/Server/world
